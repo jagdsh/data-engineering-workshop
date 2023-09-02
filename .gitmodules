@@ -1,0 +1,3 @@
+[submodule "vanilla-spark-excercises"]
+	path = vanilla-spark-excercises
+	url = git@github.com:data-derp/exercise-vanilla-spark.git
